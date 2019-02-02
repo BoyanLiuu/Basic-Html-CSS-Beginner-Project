@@ -1,2 +1,2 @@
 # Basic-Html-CSS-Beginner-Project
-Pure html and CSS beginner hotel website, It aim to practice  basic html and css. I used CSS float property for the layout.
+It contain 3 different static webpage.They are all pure html and CSS beginner website, It aim to practice basic html and css.
